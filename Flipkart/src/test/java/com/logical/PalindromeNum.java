@@ -15,7 +15,7 @@ public class PalindromeNum {
 		}
 
 		if (rev == b) {
-			System.out.println("This is a palindrome test");
+			System.out.println("This  a palindrome test");
 		} else {
 			System.out.println("this is not a palindrome");
 		}
